@@ -1,0 +1,52 @@
+.card { 
+    padding:10px; 
+    background:#fff; 
+    border-radius:8px; 
+    border:1px solid #eee; 
+    margin-top:12px; 
+}
+.row { 
+    display:flex; 
+    gap:8px; 
+}
+.input { 
+    flex: 1; 
+    padding: 6px; 
+    border-radius: 6px; 
+    border: 1px solid #e6eef7; 
+}
+
+.btn { 
+    padding:6px 10px; 
+    border-radius:6px; 
+    background:#2563eb; 
+    color:#fff; 
+    border:none; 
+    cursor:pointer; 
+}
+
+.results { 
+    margin-top:8px; 
+}
+
+.result { 
+    display:flex; 
+    justify-content: space-between; 
+    align-items:center; 
+    padding:6px 0; 
+    border-bottom:1px solid #f7f8fa; 
+}
+
+.username { 
+    color:#6b7280; 
+    margin-left:6px; 
+    font-size:12px; 
+}
+
+.invite { 
+    padding:6px 8px; 
+    border-radius:6px; 
+    border:1px solid #e6eef7; 
+    background:transparent; 
+    cursor:pointer; 
+}

@@ -1,0 +1,8 @@
+.card { padding:10px; background:#fff; border-radius:8px; border:1px solid #eee; }
+.head { display:flex; justify-content:space-between; align-items:center; margin-bottom:8px; }
+.title { margin:0; font-size:14px; }
+.refresh { font-size:12px; padding:6px; border-radius:6px; border:1px solid #e6eef7; background:transparent; cursor:pointer; }
+.list { max-height:60vh; overflow:auto; }
+.row { display:flex; justify-content:space-between; align-items:center; padding:6px 0; border-bottom:1px solid #f7f8fa; }
+.kick { padding:6px 8px; border-radius:6px; background:#fee2e2; border:1px solid #fca5a5; cursor:pointer; }
+.empty { color:#6b7280; font-size:13px; padding:6px 0; }
